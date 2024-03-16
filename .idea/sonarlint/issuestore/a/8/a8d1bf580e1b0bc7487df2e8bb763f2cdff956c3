@@ -1,0 +1,6 @@
+
+Ipython:S1172k",Remove the unused function parameter "user".(ÐˆÛ†ýÿÿÿÿ
+rpython:S3776³"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÐˆÛ†ýÿÿÿÿ
+{python:S100å"^Rename method "DEFAULT_PASSWORD_LIST_PATH" to match the regular expression ^[a-z_][a-z0-9_]*$.(Þ ¥¦úÿÿÿÿ
+Jpython:S1172ò",Remove the unused function parameter "user".(ÐˆÛ†ýÿÿÿÿ
+Jpython:S1172‚",Remove the unused function parameter "user".(ÐˆÛ†ýÿÿÿÿ

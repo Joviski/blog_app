@@ -1,0 +1,21 @@
+
+gpython:S1192ύ"IDefine a constant instead of duplicating this literal "%s$%s$%s" 3 times.(ΈπΪ•όÿÿÿÿ
+Gpython:S1481Η".Replace unused local variable "name" with "_".(ΝΗ¶—
+Hpython:S1172"/Remove the unused function parameter "encoded".(β„Ο
+Npython:S1172‘"0Remove the unused function parameter "password".(ίδ±φϋÿÿÿÿ
+Mpython:S1172‘"/Remove the unused function parameter "encoded".(ίδ±φϋÿÿÿÿ
+Ipython:S5806±"+Rename this variable; it shadows a builtin.(ή­΅όÿÿÿÿ
+Dpython:S5806¶"+Rename this variable; it shadows a builtin.(δ«±
+Dpython:S5806"+Rename this variable; it shadows a builtin.(σ®
+Gpython:S1481λ"/Replace unused local variable "empty" with "_".(°σª
+Ipython:S5806ό"+Rename this variable; it shadows a builtin.(€―ϊÿÿÿÿ
+Dpython:S5806€"+Rename this variable; it shadows a builtin.(ίμ°
+wpython:S1186™"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ίδ±φϋÿÿÿÿ
+Ipython:S5806¦"+Rename this variable; it shadows a builtin.(›±όνϊÿÿÿÿ
+Dpython:S5806ª"+Rename this variable; it shadows a builtin.(ίμ°
+wpython:S1186Γ"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ίδ±φϋÿÿÿÿ
+Ipython:S5806Ω"+Rename this variable; it shadows a builtin.(®σ¤Τϋÿÿÿÿ
+wpython:S1186ο"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ίδ±φϋÿÿÿÿ
+Dpython:S5806»"+Rename this variable; it shadows a builtin.(ΟαΔΣ
+Dpython:S5806Β"+Rename this variable; it shadows a builtin.(ίμ°
+wpython:S1186Ψ"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ίδ±φϋÿÿÿÿ

@@ -1,0 +1,10 @@
+
+Gpython:S1481"0Replace unused local variable "params" with "_".(şù†
+Dpython:S1940Z"-Use the opposite operator ("is not") instead.(ıÈãt
+Hpython:S1172ˆ"/Remove the unused function parameter "request".(Ÿ”¿º
+python:S1845¥"aRename method "DATA" to prevent any misunderstanding/clash with method "data" defined on line 214(²ã¹Åüÿÿÿÿ
+python:S1845¾"qRename method "QUERY_PARAMS" to prevent any misunderstanding/clash with method "query_params" defined on line 207(ÓÓ¿’ıÿÿÿÿ
+epython:S100¥"HRename method "DATA" to match the regular expression ^[a-z_][a-z0-9_]*$.(²ã¹Åüÿÿÿÿ
+`python:S100¬"HRename method "POST" to match the regular expression ^[a-z_][a-z0-9_]*$.(ãœş
+fpython:S100µ"IRename method "FILES" to match the regular expression ^[a-z_][a-z0-9_]*$.(÷÷Îúıÿÿÿÿ
+mpython:S100¾"PRename method "QUERY_PARAMS" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÓÓ¿’ıÿÿÿÿ
